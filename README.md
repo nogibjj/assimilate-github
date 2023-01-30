@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Assimilate GitHub Series
+A good starting point for learning GitHub
 
 ## References
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+
