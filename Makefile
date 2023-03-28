@@ -7,13 +7,13 @@ rust-version:
 	clippy-driver --version		#rust linter
 
 format:
-	cargo fmt --quiet
+	./format.sh
 
 lint:
-	cargo clippy --quiet
+	./lint.sh
 
 test:
-	cargo test --quiet
+	./test.sh
 
 run:
 	cargo run
